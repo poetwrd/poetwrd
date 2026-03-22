@@ -1,161 +1,91 @@
-License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+<div align="center">
+  <h1> Hello Fellow &lt;Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
+  <p><em>Thank you for taking the time to view my GitHub Profile 😊</em></p>
+  
+  <p>
+    <a href="https://github.com/poetwrd">
+      <img src="https://img.shields.io/github/followers/poetwrd?label=Follow&style=social" alt="GitHub Follow">
+    </a>
+    <a href="https://orcid.org/0009-0000-7748-1402">
+      <img src="https://img.shields.io/badge/ORCID-0009--0000--7748--1402-A6CE39?logo=orcid&logoColor=white" alt="ORCID">
+    </a>
+    <a href="https://www.linkedin.com/in/poetwrd">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://instagram.com/poetwrd">
+      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+  </p>
+</div>
 
-OVERVIEW
---------
-This dataset contains synthetic Hubbard model configurations generated to accompany the QPT-Net
-preprint. Each row represents a single Hubbard model simulation configuration with:
-  - Control parameters (U/t, T/t, filling n, lattice geometry)
-  - Ground-truth QCP location and phase label
-  - True and measured critical exponents
-  - Spectral function observables (quasiparticle weight, Mott gap, Hubbard band positions)
-  - Thermodynamic observables (double occupancy, spin structure factor, susceptibility)
-  - Transport properties (DC conductivity, optical gap)
-  - QPT-Net model predictions for benchmarking
+<br>
 
-COLUMN DESCRIPTIONS
--------------------
+<table align="center" border="0" style="border: none;">
+  <tr>
+    <td width="60%" valign="top">
+      <h2>👤 About Me</h2>
+      <ul>
+        <li>🔭 I’m currently working on <strong>Advanced ML Algorithms for the Stock Market</strong>.</li>
+        <li>📝 I actively publish academic research (check out my ORCID above!).</li>
+        <li>👯 I’m looking to collaborate on <strong>Open Source Data Science</strong> projects.</li>
+        <li>⚡ Fun fact: I love working with data and turning it into actionable insights!</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="90%" alt="GitHub Animation">
+    </td>
+  </tr>
+</table>
 
---- CONFIGURATION IDENTIFIER ---
-config_id           : Unique configuration ID (format: DQMC_NNNNN)
+<br>
 
---- CONTROL PARAMETERS ---
-U_over_t            : On-site Coulomb repulsion / hopping amplitude ratio (dimensionless)
-                      Range: [2.0, 16.0]
-T_over_t            : Temperature / hopping amplitude ratio (dimensionless, normalized)
-                      Range: [0.02, 0.60]
-filling_n           : Average electron filling per site
-                      Range: [0.70, 1.00]  (1.00 = half-filling)
-lattice_L           : Linear lattice size (L×L periodic)
-                      Values: 8, 12, 16, 24
-lattice_type        : Lattice geometry
-                      Values: square, triangular, honeycomb
+<h2> 🛠️ Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
+<p align="center"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
 
---- GROUND TRUTH (QCP & PHASE) ---
-gc_true             : True Quantum Critical Point location (U/t units)
-                      Computed from lattice+filling dependent formula: gc = gc_base + (n-1)×3.5
-delta_g             : Reduced tuning parameter delta_g = U/t - gc_true
-                      Negative = ordered side, Positive = disordered side
-phase_label         : True phase assignment
-                      Values: Mott_Insulator | Superconductor | Pseudogap |
-                              Quantum_Critical | Fermi_Liquid | Strange_Metal
-is_critical_fan     : Binary flag: 1 if |delta_g| < 1.5 (within quantum critical fan)
+<br>
 
---- TRUE CRITICAL EXPONENTS (3D Ising Universality Class) ---
-nu_true             : Correlation length exponent ν = 0.710
-beta_true           : Order parameter exponent β = 0.350
-eta_true            : Anomalous dimension η = 0.036
-z_true              : Dynamic critical exponent z = 1.000
-gamma_true          : Susceptibility exponent γ = 1.397
+<table align="center" style="border: none;">
+  <thead>
+    <tr>
+      <th>
+        <img src="https://github-readme-stats.vercel.app/api?username=poetwrd&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+      </th>
+      <th>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=poetwrd&theme=tokyonight" alt="GitHub Streak">
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poetwrd&theme=tokyonight&layout=compact" alt="Top Languages">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=poetwrd&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" alt="GitHub Stars">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-Note: Scaling relations satisfied: 2β + γ = 2 - α (Fisher), γ = ν(2-η) (Fisher second),
-      β(δ-1) = γ (Widom). These hold exactly for the true values.
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card">
+</p>
 
---- MEASURED CRITICAL EXPONENTS (from finite-size DQMC analysis, with noise) ---
-nu_measured         : ν estimated from finite-size scaling (includes finite-size + statistical noise)
-beta_measured       : β estimated from order parameter scaling
-eta_measured        : η estimated from correlation function decay (hard to measure, large uncertainty)
-z_measured          : z estimated from dynamic scaling of relaxation time
-gamma_measured      : γ estimated from susceptibility peak scaling
-
---- SPECTRAL FUNCTION OBSERVABLES ---
-quasiparticle_weight_Z : Quasiparticle weight Z = [1 - ∂ReSigma/∂ω]^{-1}
-                         Range: [0.01, 0.98]  (Z → 0 at Mott transition)
-mott_gap_eV            : Mott insulating gap magnitude (units of t)
-                         0.0 for metallic configurations; > 0 in Mott insulator
-UHB_position           : Upper Hubbard Band centroid position (units of t, +ω axis)
-LHB_position           : Lower Hubbard Band centroid position (units of t, -ω axis)
-
---- THERMODYNAMIC OBSERVABLES ---
-double_occupancy        : Average double occupancy <n_↑ n_↓>
-                          Range: ~0 (Mott) to ~0.25 (non-interacting)
-spin_structure_S_pipi   : Spin structure factor S(π,π) — antiferromagnetic order parameter
-                          Range: [0, 1]  (peaks at AF QCP, suppressed by temperature)
-compressibility         : Electronic compressibility κ = ∂n/∂μ
-                          Near-zero in Mott insulator; finite in metal
-magnetic_susceptibility : Uniform magnetic susceptibility χ(q=π,π)
-                          Diverges as χ ~ |delta_g|^{-γ} approaching QCP
-
---- TRANSPORT PROPERTIES ---
-dc_conductivity         : DC conductivity proxy (Drude weight, units of e²/h)
-optical_gap             : Optical (charge) gap from spectral function (units of t)
-
---- FINITE-SIZE SCALING ---
-crossing_temp_T_cross   : Temperature at which susceptibility curves for different L intersect
-                          (finite-size scaling crossing point near phase boundary)
-confidence_score        : QPT-Net confidence in the critical regime identification
-                          exp(-|delta_g|×0.4) × exp(-T/t×3.0); peaks at QCP, low temperature
-
---- QPT-NET MODEL OUTPUTS (predictions) ---
-qptnet_gc_predicted     : QPT-Net predicted QCP location (U/t units)
-qptnet_nu_predicted     : QPT-Net predicted correlation length exponent ν
-qptnet_beta_predicted   : QPT-Net predicted order parameter exponent β
-qptnet_prob_mott        : QPT-Net posterior probability: Mott Insulator phase
-qptnet_prob_sc          : QPT-Net posterior probability: Superconductor phase
-qptnet_prob_critical    : QPT-Net posterior probability: Quantum Critical phase
-qptnet_abs_error_gc     : Absolute prediction error |ĝ_c - g_c| for performance benchmarking
-
-
-DATASET STATISTICS
-------------------
-Total configurations: 5,000
-Phase distribution:
-  Mott_Insulator    : 2341 (46.8%)
-  Strange_Metal     :  797 (15.9%)
-  Fermi_Liquid      :  675 (13.5%)
-  Quantum_Critical  :  621 (12.4%)
-  Superconductor    :  364 (7.3%)
-  Pseudogap         :  202 (4.0%)
-
-Lattice geometry distribution:
-  Square (2D)       : 3513 (70.3%)
-  Triangular        :  988 (19.8%)
-  Honeycomb         :  499 (10.0%)
-
-QPT-Net model performance on this dataset:
-  Mean |error| on gc : 0.126 U/t
-  R² on gc           : 0.973
-  ν recovery error   : 1.1% of literature value
-
-
-PHYSICS NOTES FOR USERS
-------------------------
-1. HALF-FILLING: Rows with filling_n = 1.00 (±0.01) are at particle-hole symmetry
-   (half-filling). The Mott transition is sharpest here. The QCP location is
-   gc ≈ 8.5 for the 2D square lattice at half-filling.
-
-2. QUANTUM CRITICAL FAN: Configurations with is_critical_fan = 1 are within the
-   quantum critical fan (|delta_g| < 1.5). In this regime, the standard Fermi liquid
-   description breaks down and observables scale as power laws. Critical exponent
-   extraction is most reliable here.
-
-3. SCALING RELATIONS: The true exponents satisfy all RG scaling relations exactly.
-   Measured exponents contain finite-size and statistical noise. A good model should
-   predict exponents satisfying these relations even when measured values do not.
-
-4. SIGN PROBLEM: For doped configurations (filling_n < 0.90), the fermion sign problem
-   in DQMC becomes severe at low temperatures, increasing noise in measured observables.
-   Use filling_n > 0.90 configurations for cleanest comparisons.
-
-5. MOTT GAP: mott_gap_eV = 0.0 does NOT necessarily mean metallic — it means the
-   spectral gap is below the resolution threshold. Use quasiparticle_weight_Z < 0.1
-   as a more reliable Mott insulator indicator.
-
-
-SUGGESTED TRAIN/TEST SPLIT
----------------------------
-For reproducing QPT-Net results:
-  Training:   80% — random stratified sample across phases and lattice types
-  Validation: 10%
-  Test:       10% — held out completely during all training
-
-Alternatively, use a "generalization split":
-  Train on  lattice_L = [8, 12]  →  Test on lattice_L = [16, 24]  (finite-size generalization)
-  Train on  square lattice       →  Test on triangular/honeycomb   (geometry generalization)
-
-
-
-
-================================================================
-End of README
-================================================================
+<br>
+<hr>
